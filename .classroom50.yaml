@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "command-line-basics"
+owner:
+  username: "vladimir212455"
+  id: 134941915
+  accepted_at: "2026-09-04T04:24:31Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-command-line-basics"
+  branch: "main"
